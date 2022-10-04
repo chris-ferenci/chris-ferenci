@@ -12,5 +12,3 @@ Here are some ideas to get you started:
 - 📚 Formerly I worked as a Product Designer and Front-end engineer in the entertainment and environmental industries. 
 - 💬 Ask me about my adventures in rock climbing in Yosemite, Joshua Tree, California's High Sierras, and Spain
 - 📫 How to reach me: [Portfolio](www.chrisferenci.com) | [LinkedIn](https://www.linkedin.com/in/chrisferenci/)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=chris-ferenci)](https://git.io/streak-stats)
