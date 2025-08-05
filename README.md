@@ -1,4 +1,4 @@
-## Hi, I'm Chris 👋
+# Hi, I'm Chris 👋
 
 <!--
 **chris-ferenci/chris-ferenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📐 Designing and Building AI and Agent powered applications for Financial Analysis, Document Creation, and Knowledge Management
 - 🐻 Born and raised California - loves surfing, climbing, running, and exploring public lands
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
 [www.chrisferenci.com](https://www.chrisferenci.com)
 
