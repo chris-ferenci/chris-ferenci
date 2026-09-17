@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 
 - 📚 Product Designer and Design Engineer @Deloitte
-- 📐 Designing and Building AI and Agent powered applications for Financial Analysis, Document Creation, and Knowledge Management
-- 🐻 Born and raised California - loves surfing, climbing, running, and exploring public lands
+- 📐 Designing and Building Design Tools, Processes, and Strategies in Healthcare and Government Tech
+- 🐻 Born and raised California - love surfing, climbing, running, and exploring public lands
 
 ### 📫 Let's Connect!
 
